@@ -1,0 +1,9 @@
+{
+    "type": "transcription",
+    "transcription_config": {
+      "language": "en"
+    },
+    "fetch_data": {
+      "url": "file:///tmp/$FILENAME.wav"
+    }
+  }
